@@ -1,2 +1,3 @@
 # mening-birinchi-repom
-## meningbirinchi repom
+## mening birinchi repom
+### mening birinchi repom
